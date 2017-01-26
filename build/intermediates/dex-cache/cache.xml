@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_ddd255e9e0fb36fbf576dba7dc2c756c5cd53353\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_0ff3165fa09c4d1b5666fde513ff6a35c7fb2a8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f173218fbe3dd676f75a6878d898b2f6f9e682a8">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b6093e4d9d9c7eaebfd1ff356f97e2eaf43292d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_b098fd43c5982d03c229b09f720713d45760ac86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.2\f8d87f15b94b8d74e7ccf61d7eedb558811cdb30\converter-gson-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.2_c7386c623aa87152c34458f7acc3ba0ecabd9da4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_c41a261a92925f05ad88d1ba2ef15adb0e3baee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_30c1e38cbfaa7c68b5a886b23bbab9681e5278c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.2.0_196f811decfc7dc747692c209a5342e597d28dd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_4fc1e8c520b7885db0b09ca7d3c000726fcbf394\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_b6fdc67c14149895aa706b49a4d16930d5ba5dac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.2\43eeae0b9fb087bb3194ba59ab63a38a32fbf3e\retrofit-2.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.2_e11809b5c61cb4a5eb13d0c4d34d5b4b886c588b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_0da956695d92fdc23f90a7c6cf3d46094b958c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_d441f1a74d4d652b916249c38b376a5af9e434b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_b7d4fa4b3e9651dae98e5c08c68e3d13d8f74053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89c9026a02b5b02446183a3ee21d0c15eee02547">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_49150c2413591606bb6d140623893421cf5d17c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_ce2915ec8895f5638872fd5b38e4bbd0de386995\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\PutuJoli\AndroidStudioProjects\AndroidPhpLogin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_8e94e22e7c511114d7708c6a857b7a133aab38ea\classes.dex" />
+    </item>
+
+</items>
